@@ -1,10 +1,3 @@
-//
-//  SplitDisplayModeExampleViewTests.swift
-//  SplitDisplayModeExampleViewTests
-//
-//  Created by yohei sugigami on 2020/07/31.
-//
-
 import XCTest
 @testable import SplitDisplayModeExampleView
 

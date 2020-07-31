@@ -1,10 +1,3 @@
-//
-//  SplitDisplayModeExampleViewApp.swift
-//  SplitDisplayModeExampleView
-//
-//  Created by yohei sugigami on 2020/07/31.
-//
-
 import SwiftUI
 
 @main
